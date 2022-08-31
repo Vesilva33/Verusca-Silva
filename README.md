@@ -1,5 +1,3 @@
-# 
- 
 :large_blue_diamond:  Olá! Meu nome é "Verusca schimmels da Silva".
 
 :large_orange_diamond: Tenho interese na area de programação.
