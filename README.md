@@ -1,6 +1,7 @@
  
 <h1>Meu nome é "Verusca schimmels da Silva"</h1>
 
+
 <h2> Contatos</h2>
 
 :large_blue_diamond: Linkedin: https://www.linkedin.com/in/verusca-schimmels/
@@ -44,10 +45,10 @@ fixa procedimento de abertura de chamado técnico.)
 :large_orange_diamond:Modelagem de banco de dados relacional: Entendendo SQL</br>
 :large_orange_diamond:Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos</br>
 :large_orange_diamond:Modelagem de banco de dados relacional: Modelo e Álgebra Relacional</br>
-:large_orange_diamond:</br>
-:large_orange_diamond:</br>
-:large_orange_diamond:</br>
-:large_orange_diamond:</br>
+:large_orange_diamond:formação html e css Alura</br>
+:large_orange_diamond:formação javascript Alura </br>
+:large_orange_diamond:formação github Alura </br>
+
 
 
 <h2>Cursos de desenvolvimento Pessoal.</h2>
